@@ -40,7 +40,7 @@ Ela segue um caminho em sete etapas. Se você já tem parte pronta (briefing, ca
 | 6 | **Proposta comercial** | Proposta de leitura rápida, com escopo e investimento claros | [`proposta-comercial.md`](skills/presenca-digital-local/references/proposta-comercial.md) |
 | 7 | **Setores regulados** | Cuidados para saúde, educação, jurídico e finanças | [`setores-regulados.md`](skills/presenca-digital-local/references/setores-regulados.md) |
 
-## ⚙️ Instalação
+## 📦 Instalação
 
 1. Baixe o repositório (**Code → Download ZIP**) ou clone:
    ```bash
